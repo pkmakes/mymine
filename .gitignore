@@ -4,6 +4,29 @@
 # Python
 .venv/
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+.eggs/
+*.egg-info/
+.pytest_cache/
+.coverage
+dist/
+build/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Editors/IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
 *.py[cod]
 *.egg-info/
 .ipynb_checkpoints/
